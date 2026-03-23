@@ -2,3 +2,5 @@ Get the user data...git status
 process the data
 
 create new avatar for usergit checkout 
+
+login and logout
